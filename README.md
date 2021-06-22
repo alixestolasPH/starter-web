@@ -15,4 +15,4 @@ sdfgsdfsfdghdsfgh
 skdfjg;slkdjfg;skldjfgklsjdfg;klsjdf;gkjsd;fklgjuhsdfliusghosuidfhg
 
 ###Copyright
-Copyright 2021 Alix
+Copyright 2021 Alix All Rights Reserved
